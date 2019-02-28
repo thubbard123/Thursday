@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultDestination
   Version="1"
-  Comment="WHERE AM I?!?!"
+  Comment="This is my publish destination"
   Host="ftp.myftpserver.com"
   User="MyAccountId"
   Password=""
-  Directory="C:\Users\thubbard\Documents\Bugs\asdfasfaf"
+  Directory="C:\Users\thubbard\Desktop\DELETE"
   Port=""
   ViewUrl="http://www.madcapsoftware.com/"
   Type="scm"
   ProviderType="Git"
-  Database="file:///C:/Users/thubbard/Documents/Bugs/.git"
-  DatabaseRoot="file:///C:/Users/thubbard/Documents/Bugs/asdfasfaf"
+  Database="C:\Users\thubbard\Desktop\DELETE\.git"
+  DatabaseRoot="C:\Users\thubbard\Desktop\DELETE"
   PushToRemote="true"
   RemoteRepository="origin"></CatapultDestination>
